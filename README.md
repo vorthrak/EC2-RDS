@@ -1,5 +1,5 @@
 # EC2-RDS
-### instalation in ec2 server
+### instalation in server
 - ```sudo apt update -y```
 - ```sudo apt install apache2 php php-mysql mysql-client -y```
 - ```sudo systemctl start apache2```
