@@ -5,4 +5,5 @@
 - ```sudo systemctl start apache2```
 - ```sudo systemctl enable apache2```
 - ```mysql -h <RDS-Endpoint> -u <Master-Username> -p```
-- ```cd /var/www/<file index.php>```
+- ```cd /var/www/<taruh file>```
+- ```sudo systemctl restart apache2```
